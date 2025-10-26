@@ -1,0 +1,38 @@
+{
+    "full_name": "Dustin Gaspard",
+    "name": "Dusty",
+    "current_role": "Managing Consultant",
+    "location": "New Orleans, LA",
+    "email": "dgaspard@gmail.com",
+    "linkedin": "linkedin.com/in/dgaspard",
+    "specialties": [
+      "Azure Cloud",
+      "Java Development",
+      "Cloud Migration",
+      "Cloud Architecture",
+      "Cloud Security",
+      "Cloud Governance",
+      "Cloud Operations",
+      "Cloud Monitoring",
+      "Cloud Automation",
+      "Cloud Optimization",
+      "Cloud Migration",
+      "Digital Transformation",
+      "Portfolio & Change Management",
+      "Human-Centered Design",
+      "Change Management",
+      "Operations",
+      "Modern Software Delivery",
+      "Software Development Lifecycle (SDLC)",
+      "Community Leader",
+      "Local Meetups"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "Southeastern Louisiana University",
+        "year": "2005"
+      }
+    ]
+  }
